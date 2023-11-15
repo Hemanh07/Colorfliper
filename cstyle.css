@@ -1,0 +1,19 @@
+#body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid black;
+    height: 100rem;
+}
+#outer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid black;
+    height: 100px;
+}
+#click,#backgroundcolor{
+    border: 2px blue solid;
+    background-color: rgb(7, 7, 7);
+    color: white;
+}
